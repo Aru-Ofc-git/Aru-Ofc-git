@@ -3,12 +3,18 @@
     <img align="center" alt="" src="images/aru_github_picture.png">
 </div>
 
+
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=tomato&size=50&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+ARU;Student+at+XI+class;Freelancer;Web-Developer" />
 </div>
+<br>
+<br>
+<p><b>My name is ARU. I am Web designer, and I'm very passionate and dedicated to my work. With half years experience as a professional graphic designer, I have acquired the skills and knowledge necessary to make your project a success.</b></p>
+<br>
+<br>
+
 
 `` ⚙️ GitHub Analytics``
-
 <p align="center">
 <a href="https://github.com/Aru-Ofc-git">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aru-Ofc-git&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -52,6 +58,7 @@
 <img src="https://img.shields.io/badge/-JAVASCRIPT-F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F&labelColor=282828">
 <img src="https://img.shields.io/badge/-JQUERY-78cff5?style=for-the-badge&logo=jquery&logoColor=0769ad&labelColor=282828">
   <img src="https://img.shields.io/badge/-BOOTSTRAP-563d7c?style=for-the-badge&logo=bootstrap&logoColor=563d7c&labelColor=282828">
+<img src="https://img.shields.io/badge/-JSON-f85a40?style=for-the-badge&logo=json&logoColor=f85a40&labelColor=282828">
 <br>
 <br>
 <br>
@@ -73,6 +80,8 @@
   <img src="https://img.shields.io/badge/-GO-29BEB0?style=for-the-badge&logo=go&logoColor=29BEB0&labelColor=282828">
 <br>
 <br>
+<br>
+<br>
 </div>
 
 
@@ -80,12 +89,23 @@
 
 
 
-<h4>Follow me around the web:</h4><br>
+`` 📡 Get in Touch `` 
+<br>
 
-<a href="https://www.facebook.com/Aru.Ofc" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-%230077B5.svg?&style=flat-square&logo=facebook&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.facebook.com/Aru.Ofc" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-4267B2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/Aru.Ofc.Ins" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/aru_ofc_twiter" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://open.spotify.com/user/rwvotqr02yuzpyfmkkri3b5k1?si=X4sohjMTTCmIMuniDJ5ECA&utm_source=copy-link" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://twitter.com/aru_ofc_twiter" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://dev.to/aruofc" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="mailto: aru.ofc@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Email-BB001B.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://github.com/Aru-Ofc-git" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515.svg?&style=flat-square&logo=github&logoColor=white" alt="Github"></a>
+
+
 
 <p align="center">Made With ❤️ by <a href="https://www.facebook.com/Siillent.Killer.Arman">ARU</a> </p>
+
+
+<div align="center">
+<a href="https://gist.github.com/Aru-Ofc-git"><img src="https://profile-counter.glitch.me/{Aru-Ofc-git}/count.svg" alt="Aru-Ofc-git :: Visitor's Count" /></a>
+</div>
