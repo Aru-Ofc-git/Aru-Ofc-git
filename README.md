@@ -98,7 +98,7 @@
 <a href="https://open.spotify.com/user/rwvotqr02yuzpyfmkkri3b5k1?si=X4sohjMTTCmIMuniDJ5ECA&utm_source=copy-link" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://twitter.com/aru_ofc_twiter" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://dev.to/aruofc" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-<a href="mailto: aru.ofc@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Email-BB001B.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="mailto: arifulislam275m.com" target="_blank"><img src="https://img.shields.io/badge/Email-BB001B.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://github.com/Aru-Ofc-git" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515.svg?&style=flat-square&logo=github&logoColor=white" alt="Github"></a>
 
 
