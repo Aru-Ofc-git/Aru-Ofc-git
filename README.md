@@ -1,5 +1,8 @@
 <!---GitHub README --->
+<!--MetaTag-->
+<meta name="description" content="Iam a small programmer">
 <div align="center">
+<meta name="keywords" content="ARU,Aru Bomber,Mr.Aru, Itz Aru, Ariful Islam">
     <img align="center" alt="" src="images/aru_github_picture.png">
 </div>
 
