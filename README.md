@@ -32,7 +32,7 @@
 <br>
 
 
-`` 😇 About Me:  ``
+`` 😇 About ARU:  ``
 
 <div align="left">
 <br>
