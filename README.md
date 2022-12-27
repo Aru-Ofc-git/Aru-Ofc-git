@@ -23,7 +23,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aru-Ofc-git&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aru-Ofc-git&layout=compact&langs_count=10&theme=algolia"/>
 
-[![Aru-Ofc-git's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aru-Ofc-git&theme=react-dark)](Aru-Ofc-git)
+<!-- [![Aru-Ofc-git's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aru-Ofc-git&theme=react-dark)](Aru-Ofc-git) -->
 
 
 
