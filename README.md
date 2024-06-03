@@ -62,6 +62,9 @@
 <img src="https://img.shields.io/badge/-JQUERY-78cff5?style=for-the-badge&logo=jquery&logoColor=0769ad&labelColor=282828">
   <img src="https://img.shields.io/badge/-BOOTSTRAP-563d7c?style=for-the-badge&logo=bootstrap&logoColor=563d7c&labelColor=282828">
 <img src="https://img.shields.io/badge/-JSON-f85a40?style=for-the-badge&logo=json&logoColor=f85a40&labelColor=282828">
+<img src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=306998&labelColor=282828">
+<img src="https://img.shields.io/badge/-NODE JS-3C873A?style=for-the-badge&logo=node.js&logoColor=68A063&labelColor=282828">
+<img src="https://img.shields.io/badge/-MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=4DB33D&labelColor=282828">  
 <br>
 <br>
 <br>
@@ -72,12 +75,9 @@
 `` 📖 Trying To Learn: ``
 <div align="center">
 <img src="https://img.shields.io/badge/-PHP-787CB5?style=for-the-badge&logo=php&logoColor=787CB5&labelColor=282828">
-<img src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=306998&labelColor=282828">
 <img src="https://img.shields.io/badge/-Android Development-3DDC84?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=282828">
-  <img src="https://img.shields.io/badge/-NODE JS-3C873A?style=for-the-badge&logo=node.js&logoColor=68A063&labelColor=282828">
 <img src="https://img.shields.io/badge/-REACT-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=282828">
   <img src="https://img.shields.io/badge/-SASS-cc6699?style=for-the-badge&logo=sass&logoColor=cc6699&labelColor=282828">
-<img src="https://img.shields.io/badge/-MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=4DB33D&labelColor=282828">
   <img src="https://img.shields.io/badge/-MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=f29111&labelColor=282828">
 <img src="https://img.shields.io/badge/-SHELL-ED1C24?style=for-the-badge&logo=shell&logoColor=ED1C24&labelColor=FFD500">
   <img src="https://img.shields.io/badge/-GO-29BEB0?style=for-the-badge&logo=go&logoColor=29BEB0&labelColor=282828">
@@ -95,7 +95,7 @@
 `` 📡 Get in Touch `` 
 <br>
 
-<a href="https://www.facebook.com/Aru.Ofc" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-4267B2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.facebook.com/1r13a14" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-4267B2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/Aru.Ofc.Ins" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/aru_ofc_twiter" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://open.spotify.com/user/rwvotqr02yuzpyfmkkri3b5k1?si=X4sohjMTTCmIMuniDJ5ECA&utm_source=copy-link" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
