@@ -106,9 +106,9 @@
 
 
 
-<p align="center">Made With ❤️ by <a href="https://www.facebook.com/Siillent.Killer.Arman">ARU</a> </p>
+<p align="center">Made With ❤️ by <a href="https://m.me/1r13a14">ARU</a> </p>
 
-
+<!--- https://www.facebook.com/Siillent.Killer.Arman --!>
 
 
 <div align="center">
