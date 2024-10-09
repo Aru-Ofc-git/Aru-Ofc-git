@@ -103,6 +103,7 @@
 <a href="https://dev.to/aruofc" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 <a href="mailto: arifulislam275m.com" target="_blank"><img src="https://img.shields.io/badge/Email-BB001B.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://github.com/Aru-Ofc-git" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515.svg?&style=flat-square&logo=github&logoColor=white" alt="Github"></a>
+<a href="https://t.me/aru_ofc_bot" target="_blank"><img src="https://img.shields.io/badge/Telegram-171515.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 
 
 
