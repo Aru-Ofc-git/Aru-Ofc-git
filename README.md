@@ -24,7 +24,7 @@
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aru-Ofc-git&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aru-Ofc-git&theme=transparent"/>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aru-Ofc-git&theme=transparent"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aru-Ofc-git&theme=aura&utcOffset=8"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aru-Ofc-git&theme=transparent&utcOffset=8"/>
 
 </a>
 </p>
