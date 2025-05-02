@@ -20,10 +20,15 @@
 `` ⚙️ GitHub Analytics``
 <p align="center">
 <a href="https://github.com/Aru-Ofc-git">
+    
+<img height="180em" src="https://streak-stats.demolab.com/?user=Aru-Ofc-Git&theme=transparent&include_all_commits=true&count_private=true"/>
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aru-Ofc-git&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aru-Ofc-git&theme=algolia"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aru-Ofc-git&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aru-Ofc-git&layout=compact&langs_count=10&theme=algolia"/>
 
-<!-- [![Aru-Ofc-git's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aru-Ofc-git&theme=react-dark)](Aru-Ofc-git) -->
+[![Aru-Ofc-git's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aru-Ofc-git&theme=react-dark)](https://github.com/Aru-Ofc-git)
+
 
 
 
@@ -81,21 +86,24 @@
 `` 📡 Get in Touch `` 
 <br>
 
-<a href="https://www.facebook.com/1r13a14" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-4267B2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/Aru.Ofc.Ins" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://twitter.com/1r13a14" target="_blank"><img src="https://img.shields.io/badge/X-000.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://open.spotify.com/user/rwvotqr02yuzpyfmkkri3b5k1?si=X4sohjMTTCmIMuniDJ5ECA&utm_source=copy-link" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://www.youtube.com/c/ARULyrics1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+
+
+<a href="https://www.facebook.com/1R13A14" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-4267B2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.instagram.com/aru.ofc.ins/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://x.com/1r13a14" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/arman-ofc/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/Aru-Ofc-git" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.fiverr.com/arman_ofc/" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73.svg?&style=flat-square&logo=fiverr&logoColor=white" alt="Fiverr"></a>
+<a href="https://www.youtube.com/c/1r13a14" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://dev.to/aruofc" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-<a href="mailto: arifulislam275m.com" target="_blank"><img src="https://img.shields.io/badge/Email-BB001B.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="mailto: arifulislamarman02.com" target="_blank"><img src="https://img.shields.io/badge/Email-BB001B.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://github.com/Aru-Ofc-git" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515.svg?&style=flat-square&logo=github&logoColor=white" alt="Github"></a>
 <a href="https://t.me/aru_ofc_bot" target="_blank"><img src="https://img.shields.io/badge/Telegram-171515.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 
 
 
-<p align="center">Made With ❤️ by <a href="https://m.me/1r13a14">ARU</a> </p>
+<p align="center">Made With ❤️ by <a href="https://m.me/1r13a14">Ariful Islam Arman</a> </p>
 
-<!--- https://www.facebook.com/Siillent.Killer.Arman --!>
 
 
 <div align="center">
