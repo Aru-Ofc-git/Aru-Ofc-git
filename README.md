@@ -6,7 +6,6 @@
 <img align="center" alt="" src="images/aru_github_picture.png">
 </div>
 
-
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=tomato&size=50&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Ariful+Islam+arman;Student;Web+Developer;Web+Designer;Freelancer" />
 </div>
@@ -16,28 +15,22 @@
 <br>
 <br>
 
+` ⚙️ GitHub Analytics`
 
-`` ⚙️ GitHub Analytics``
 <p align="center">
 <a href="https://github.com/Aru-Ofc-git">
     
 <img height="180em" src="https://streak-stats.demolab.com/?user=Aru-Ofc-Git&theme=transparent&include_all_commits=true&count_private=true"/>
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aru-Ofc-git&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aru-Ofc-git&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aru-Ofc-git&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aru-Ofc-git&layout=compact&langs_count=10&theme=algolia"/>
-
-[![Aru-Ofc-git's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aru-Ofc-git&theme=react-dark)](https://github.com/Aru-Ofc-git)
-
-
-
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aru-Ofc-git&theme=transparent"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aru-Ofc-git&theme=transparent"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aru-Ofc-git&theme=aura&utcOffset=8"/>
 
 </a>
 </p>
 <br>
 
-
-`` 😇 About ARU:  ``
+`😇 About ARU: `
 
 <div align="left">
 <br>
@@ -56,9 +49,8 @@
 <br>
 </div>
 
+`😇 My Skills: `
 
-
-``😇 My Skills: ``
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-f06529?style=for-the-badge&logo=html5&logoColor=e34c26&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-264de4?style=for-the-badge&logo=css3&logoColor=2965f1&labelColor=282828">
@@ -80,13 +72,8 @@
   <br><br><br>
 </div>
 
-
-
-
-`` 📡 Get in Touch `` 
+`📡 Get in Touch`
 <br>
-
-
 
 <a href="https://www.facebook.com/1R13A14" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-4267B2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.instagram.com/aru.ofc.ins/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -100,11 +87,7 @@
 <a href="https://github.com/Aru-Ofc-git" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515.svg?&style=flat-square&logo=github&logoColor=white" alt="Github"></a>
 <a href="https://t.me/aru_ofc_bot" target="_blank"><img src="https://img.shields.io/badge/Telegram-171515.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 
-
-
 <p align="center">Made With ❤️ by <a href="https://m.me/1r13a14">Ariful Islam Arman</a> </p>
-
-
 
 <div align="center">
 <a href="https://gist.github.com/Aru-Ofc-git"><img src="https://profile-counter.glitch.me/{Aru-Ofc-git}/count.svg" alt="Aru-Ofc-git :: Visitor's Count" /></a>
