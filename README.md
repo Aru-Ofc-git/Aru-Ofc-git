@@ -3,7 +3,7 @@
 <meta name="keywords" content="Ariful Islam Arman, Full-Stack Web Developer, MERN Stack, MongoDB, Express.js, React, Node.js, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, MySQL, Web Development, Responsive Design, Frontend Developer, Backend Developer, Web Applications, Clean Code, API Development, Next.js, EJS, User Experience, JavaScript Developer, Web Performance, UI/UX Design, ARU,Aru Bomber,Mr.Aru, Itz Aru, Ariful Islam,aru github,Aru-Bomber,sms bomber">
 <meta name="description" content="Ariful Islam Arman is a passionate Full-Stack Web Developer skilled in the MERN stack, including MongoDB, Express.js, React, and Node.js. He specializes in building clean, responsive, and high-performance websites and web applications. Let's collaborate and turn your ideas into reality with quality code and smooth user experiences.">
 <div align="center">
-<img align="center" alt="" src="images/aru_github_picture.png">
+<img align="center" alt="Github Image - Ariful Islam Arman" src="images/aru_github_picture.png">
 </div>
 
 <div align="center">
@@ -30,7 +30,7 @@
 </p>
 <br>
 
-`😇 About ARU: `
+`😇 About Ariful Islam Arman: `
 
 <div align="left">
 <br>
@@ -77,15 +77,14 @@
 
 <a href="https://www.facebook.com/1R13A14" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-4267B2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.instagram.com/aru.ofc.ins/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://x.com/1r13a14" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://www.linkedin.com/in/arman-ofc/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://x.com/1r13a14" target="_blank"><img src="https://img.shields.io/badge/X-000.svg?&style=flat-square&logo=x&logoColor=white" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/arman-ofc/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat-square&logo=linkedin&logoColor=whiteimg.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/Aru-Ofc-git" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.fiverr.com/arman_ofc/" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73.svg?&style=flat-square&logo=fiverr&logoColor=white" alt="Fiverr"></a>
 <a href="https://www.youtube.com/c/1r13a14" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://dev.to/aruofc" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 <a href="mailto: arifulislamarman02.com" target="_blank"><img src="https://img.shields.io/badge/Email-BB001B.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://github.com/Aru-Ofc-git" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515.svg?&style=flat-square&logo=github&logoColor=white" alt="Github"></a>
-<a href="https://t.me/aru_ofc_bot" target="_blank"><img src="https://img.shields.io/badge/Telegram-171515.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="https://t.me/aru_ofc_bot" target="_blank"><img src="https://img.shields.io/badge/Telegram-1DA1F2.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 
 <p align="center">Made With ❤️ by <a href="https://m.me/1r13a14">Ariful Islam Arman</a> </p>
 
