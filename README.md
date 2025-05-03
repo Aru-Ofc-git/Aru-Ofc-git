@@ -20,7 +20,7 @@
 <p align="center">
 <a href="https://github.com/Aru-Ofc-git">
     
-<img height="180em" src="https://streak-stats.demolab.com/?user=Aru-Ofc-Git&theme=transparent&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Aru-Ofc-git&theme=transparent" alt="Streak Stats"/>
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aru-Ofc-git&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aru-Ofc-git&theme=transparent"/>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aru-Ofc-git&theme=transparent"/>
